@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ajay Yadav</h1>
 <h3 align="center">🚀 Full-Stack Developer | Code. Create. Innovate.</h3>
+<table>
+  <tr>
+    <td>
+      <h3>🚀 Data Science | Data Analyst | AI & ML Enthusiast</h3>
+      <p>I'm passionate about solving real-world problems using technology and building impactful products through Data Science and AI.</p>
+    </td>
+    <td>
+      <img align="right" alt="coding" width="400" src="9070324cdfc07c68d60eed0c39e77573.gif">
+    </td>
+  </tr>
+</table>
+
+<p align="left"> <a href="https://twitter.com/garv0000" target="blank"><img src="https://img.shields.io/twitter/follow/garv0000?logo=twitter&style=for-the-badge" alt="garv0000" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2003ajay&label=Profile%20views&color=0e75b6&style=flat" alt="2003ajay" /> </p>
 
