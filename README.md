@@ -4,7 +4,7 @@
   <tr>
     <td>
       <h3>🚀 Web developer | AI & ML Enthusiast</h3>
-      <p>I'm passionate about solving real-world problems using technology and building impactful products through Data Science and AI.</p>
+      <p>I'm passionate about solving real-world problems using technology and building impactful products through my web Development skills.</p>
     </td>
     <td>
       <img align="right" alt="coding" width="400" src="9070324cdfc07c68d60eed0c39e77573.gif">
