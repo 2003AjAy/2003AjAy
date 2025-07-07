@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <h3>🚀 Data Science | Data Analyst | AI & ML Enthusiast</h3>
+      <h3>🚀 Web developer | AI & ML Enthusiast</h3>
       <p>I'm passionate about solving real-world problems using technology and building impactful products through Data Science and AI.</p>
     </td>
     <td>
@@ -11,8 +11,6 @@
     </td>
   </tr>
 </table>
-
-<p align="left"> <a href="https://twitter.com/garv0000" target="blank"><img src="https://img.shields.io/twitter/follow/garv0000?logo=twitter&style=for-the-badge" alt="garv0000" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2003ajay&label=Profile%20views&color=0e75b6&style=flat" alt="2003ajay" /> </p>
 
