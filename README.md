@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajayyad27891695" target="blank"><img src="https://img.shields.io/twitter/follow/ajayyad27891695?logo=twitter&style=for-the-badge" alt="ajayyad27891695" /></a> </p>
 
-- 🔭 I’m currently working on [TrackMyMeds – A Smart Medicine Inventory Management System](https://github.com/2003AjAy/TrackMyMeds)
+- 🔭 I’m currently working on [codeLinka]([https://github.com/2003AjAy/codeLinkaaa])
 
 - 🌱 I’m currently learning **Next.js, Node js. and handling databse**
 
